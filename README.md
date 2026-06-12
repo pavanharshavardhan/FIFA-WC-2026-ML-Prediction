@@ -3,7 +3,6 @@
 A complete end-to-end machine learning project that predicts the FIFA World Cup 2026 tournament using historical World Cup results, FIFA rankings, ELO ratings, statistical modeling, and Monte Carlo simulation.
 
 
-Repository:
 https://github.com/pavanharshavardhan/FIFA-WC-2026-ML-Prediction
 
 The project combines data engineering, feature engineering, predictive modeling, probabilistic simulation, and sports analytics to estimate:
