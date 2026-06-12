@@ -1,6 +1,8 @@
 # ⚽ FIFA World Cup 2026 Predictions Using Machine Learning
 
 A complete end-to-end machine learning project that predicts the FIFA World Cup 2026 tournament using historical World Cup results, FIFA rankings, ELO ratings, statistical modeling, and Monte Carlo simulation.
+Repository:
+https://github.com/pavanharshavardhan/FIFA-WC-2026-ML-Prediction
 
 The project combines data engineering, feature engineering, predictive modeling, probabilistic simulation, and sports analytics to estimate:
 
@@ -14,6 +16,22 @@ The project combines data engineering, feature engineering, predictive modeling,
 * Tournament-wide statistical insights
 
 ---
+<img width="578" height="353" alt="Fifa db1" src="https://github.com/user-attachments/assets/f853c4ab-d6b4-46fa-97e5-3bece2ff866c" />
+<img width="580" height="355" alt="Fifa db2" src="https://github.com/user-attachments/assets/bd79a0e1-6258-43d9-b116-4b73c9e72558" />
+
+## Key Results
+
+| Prediction | Result |
+|------------|---------|
+| Most Likely Winner | France (10.6%) |
+| Runner-Up Favorite | Brazil (9.5%) |
+| Dark Horse | Colombia |
+| Golden Boot Favorite | Kylian Mbappé |
+| Hardest Group | Group K |
+| Highest Scoring Group | Group B |
+| Simulations | 50,000 |
+| Final Model | XGBoost |
+
 
 ## Project Overview
 
